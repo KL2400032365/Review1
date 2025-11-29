@@ -1,0 +1,9 @@
+bin/
+obj/
+.vscode/
+.vs/
+.nuget/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
